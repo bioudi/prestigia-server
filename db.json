@@ -1,9 +1,11 @@
-[
-	{
-		id: 34,
-		name: 'Kenzi Rissani',
-		type: 'hotel',
-		city: 'Grand Sud',
-		country: 'Maroc',
-	},
-]
+{
+	"destinations": [
+		{
+			"id": 34,
+			"name": "Kenzi Rissani",
+			"type": "hotel",
+			"city": "Grand Sud",
+			"country": "Maroc"
+		}
+	]
+}
