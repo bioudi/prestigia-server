@@ -6,6 +6,27 @@
 			"type": "hotel",
 			"city": "Grand Sud",
 			"country": "Maroc"
+		},
+		{
+			"id": 17506,
+			"name": "Riad Marrahabia",
+			"type": "hotel",
+			"city": "Marrakech",
+			"country": "Maroc"
+		},
+		{
+			"id": 17495,
+			"name": "The Pearl Marrakesh",
+			"type": "hotel",
+			"city": "Marrakech",
+			"country": "Maroc"
+		},
+		{
+			"id": 19154,
+			"name": "Adam Park Marrakesh",
+			"type": "hotel",
+			"city": "Marrakech",
+			"country": "Maroc"
 		}
 	]
 }
